@@ -40,17 +40,24 @@ You will only get 100 if the entire QR program passes GitHub actions, so you wil
 
 # SCREENSHOTS:
 
+## GitHub Workflow Action 
+
+
+![image](https://github.com/user-attachments/assets/eb175d62-d424-4800-bdbc-77aa487b0eb7)
+
+
+## CI/CD Pipeline and pushing the built and scanned images to DockerHub 
+
+![image](https://github.com/user-attachments/assets/93c9949c-6d34-4ce1-9478-732607a40b62)
+
+
+![image](https://github.com/user-attachments/assets/919b9ce3-210b-469d-a7f9-2fd5123f35e2)
+
+
+## API Documentation  
+
 ![image](https://github.com/user-attachments/assets/179956f2-5756-416b-b4ff-86d96a36d39e)
 
 ![image](https://github.com/user-attachments/assets/fffd2fe2-ef8f-41be-95de-1d2203a811b1)
 
 ![image](https://github.com/user-attachments/assets/36782b91-e4c5-4031-89bc-589d6626a8d9)
-
-![image](https://github.com/user-attachments/assets/c65d4195-9ef7-4f4f-8125-70f6600ec3b9)
-
-
-![image](https://github.com/user-attachments/assets/93c9949c-6d34-4ce1-9478-732607a40b62)
-
-
-
-
