@@ -37,7 +37,9 @@ jobs:
           
       - name: Run tests with Pytest
         run: pytest
-
+      - name: Run trivy 
+        run: trivy fs . || true
+        
   build-and-push-docker:
     needs: test
     runs-on: ubuntu-latest
@@ -62,7 +64,9 @@ jobs:
           platforms: linux/amd64,linux/arm64 # Multi-platform support
           cache-from: type=registry,ref=mallikakasi/is601_hw9_devopsdemo:cache
           cache-to: type=inline,mode=max
-          
+
+      
+      
       - name: Scan the Docker image
         uses: aquasecurity/trivy-action@master
         with:
