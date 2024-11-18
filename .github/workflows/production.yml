@@ -70,7 +70,11 @@ jobs:
           key: ${{ runner.os }}-trivy-db
           restore-keys: |
             ${{ runner.os }}-trivy-db
-          
+            
+  scan-docker-image:
+      needs: build-and-push-docker
+      runs-on: ubuntu-latest
+      steps:      
       - name: Scan the Docker image
         uses: aquasecurity/trivy-action@master
         with:
