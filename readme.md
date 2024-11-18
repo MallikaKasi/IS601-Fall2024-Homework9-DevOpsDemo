@@ -49,6 +49,7 @@ You will only get 100 if the entire QR program passes GitHub actions, so you wil
 ![image](https://github.com/user-attachments/assets/c65d4195-9ef7-4f4f-8125-70f6600ec3b9)
 
 
+![image](https://github.com/user-attachments/assets/93c9949c-6d34-4ce1-9478-732607a40b62)
 
 
 
