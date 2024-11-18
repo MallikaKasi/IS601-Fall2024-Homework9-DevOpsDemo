@@ -35,3 +35,21 @@ You will only get 100 if the entire QR program passes GitHub actions, so you wil
 9. Goto http://localhost/docs to view openapi spec documentation
 10. Click "authorize" input username: admin password: secret
 11. Test making,  retrieving, and deleting QR codes on the spec page.
+
+
+
+# SCREENSHOTS:
+
+![image](https://github.com/user-attachments/assets/179956f2-5756-416b-b4ff-86d96a36d39e)
+
+![image](https://github.com/user-attachments/assets/fffd2fe2-ef8f-41be-95de-1d2203a811b1)
+
+![image](https://github.com/user-attachments/assets/36782b91-e4c5-4031-89bc-589d6626a8d9)
+
+![image](https://github.com/user-attachments/assets/c65d4195-9ef7-4f4f-8125-70f6600ec3b9)
+
+
+
+
+
+
